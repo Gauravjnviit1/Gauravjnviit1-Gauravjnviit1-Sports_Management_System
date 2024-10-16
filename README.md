@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # SportsBookingApp
 
@@ -100,3 +101,6 @@ This project is licensed under the MIT License.
 - [Express](https://expressjs.com/)
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/)
+=======
+# Gauravjnviit1-Gauravjnviit1-Sports_Management_System
+>>>>>>> 298091f4bc3518db45628b3723d0ddae24756c77

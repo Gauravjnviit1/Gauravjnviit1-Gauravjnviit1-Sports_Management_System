@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Frontend Link:-https://gauravjnviit1-sports-management-system-2ms7.vercel.app/ 
    
                        
